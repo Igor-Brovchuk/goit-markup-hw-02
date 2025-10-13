@@ -1,0 +1,32 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+}
+body {
+  font-family: "Roboto", "Verdana", "Tahoma", sans-serif;
+  color: #2e2f42;
+  background-color: white;
+}
+body a {
+  text-decoration: none;
+  color: #2e2f42;
+}
+.top-line {
+  display: flex;
+  align-items: center;
+}
+.logo {
+  font-family: "Raleway", sans-serif;
+  color: #2e2f42;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 21px;
+  letter-spacing: 3%;
+  text-transform: uppercase;
+  margin: 24px 76px 24px 156px;
+}
+.logo span {
+  color: #4d5ae5;
+}
