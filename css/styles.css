@@ -63,8 +63,6 @@ address {
   border-radius: 4px;
   padding-block: 16px;
   padding-inline: 32px;
-
-  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
   background: #4d5ae5;
   font-weight: 500;
   font-size: 16px;
@@ -89,6 +87,7 @@ address {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
+  color: #434455;
 }
 .team {
   background: #f4f4fd;
