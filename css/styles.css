@@ -32,8 +32,10 @@ body ul {
 .menu a:focus {
   color: #404bbf;
 }
-.contacts a {
+address {
   font-style: normal;
+}
+.contacts a {
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
@@ -46,7 +48,8 @@ body ul {
 .hero {
   background: #2e2f42;
 }
-.main-title {
+
+.hero-title {
   font-weight: 700;
   font-size: 56px;
   line-height: 1.07;
@@ -89,7 +92,7 @@ body ul {
 .team {
   background: #f4f4fd;
 }
-.team-title {
+.title-h2 {
   font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
@@ -125,7 +128,7 @@ body ul {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 18px;
-  line-height: 1.16667;
+  line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
