@@ -79,6 +79,7 @@ address {
   letter-spacing: 0.02em;
   color: #2e2f42;
   text-align: center;
+  text-transform: capitalize;
 }
 .text-p {
   font-weight: 400;
@@ -98,6 +99,7 @@ address {
   letter-spacing: 0.02em;
   color: #2e2f42;
   text-align: center;
+  text-transform: capitalize;
 }
 .team-card {
   background-color: #fff;
