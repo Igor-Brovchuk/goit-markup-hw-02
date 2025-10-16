@@ -104,7 +104,9 @@ address {
 .team-card {
   background-color: #fff;
 }
-
+.portfolio {
+  background: #fff;
+}
 .site-footer {
   background: #2e2f42;
 }
