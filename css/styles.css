@@ -53,11 +53,11 @@ body ul {
   color: #404bbf;
 }
 
-.hero-image-title {
+.hero-image {
   background: #2e2f42;
 }
 
-.hero-title {
+.hero-image-title {
   font-weight: 700;
   font-size: 56px;
   line-height: 1.07;
@@ -83,7 +83,7 @@ body ul {
   background: #404bbf;
 }
 
-.title-h2 {
+.section-title {
   font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
@@ -92,7 +92,7 @@ body ul {
   text-align: center;
   text-transform: capitalize;
 }
-.title-h3 {
+.section-title-item {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -101,7 +101,7 @@ body ul {
   text-align: center;
   text-transform: capitalize;
 }
-.text-p {
+.item-text {
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
