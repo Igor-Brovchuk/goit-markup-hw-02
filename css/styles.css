@@ -11,8 +11,7 @@ body a {
 body ul {
   list-style-type: none;
 }
-<<<<<<< HEAD
-h1,
+<<<<<<< HEAD h1,
 h2,
 h3,
 p {
@@ -26,10 +25,6 @@ img {
   display: block;
 }
 .logo {
-=======
-
-.header-logo {
->>>>>>> 52f66ec5d42b75f769c777435e7f36b308454e29
   font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 18px;
